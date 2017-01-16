@@ -1,4 +1,4 @@
-# [BDreborn](https://telegram.me/sudo_hacker)
+# [TG_B](https://telegram.me/sudo_hacker)
 
 **An advanced and powerful administration bot based on NEW TG-CLI
 
