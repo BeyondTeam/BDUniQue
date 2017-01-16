@@ -1,4 +1,4 @@
-# [BDreborn](https://telegram.me/BDreborn)
+# [BDreborn](https://telegram.me/sudo_hacker)
 
 **An advanced and powerful administration bot based on NEW TG-CLI
 
@@ -20,8 +20,8 @@
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/BeyondTeam/BDReborn.git
-cd BDReborn
+git clone https://github.com/BeyondTeam/TG_B.git
+cd TG_B
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
@@ -29,7 +29,7 @@ chmod +x launch.sh
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+cd $HOME && git clone https://github.com/BeyondTeam/TG_B.git && cd TG_B && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 * * *
@@ -40,7 +40,7 @@ After you run the bot for first time, send it `!id`. Get your ID and stop the bo
 Open ./bot/bot.lua and add your ID to the "sudo_users" section in the following format:
 ```
     sudo_users = {
-    157059515,
+    229445008,
     0,
     YourID
   }
@@ -76,4 +76,4 @@ More information [Beyond Development](https://telegram.me/joinchat/AAAAAD9JFZk6
 
 ### Our Telegram channel:
 
-[@BeyondTeam](https://telegram.me/BeyondTeam)
+[@blackandwhiteTM](https://telegram.me/blackandwhiteTM)
