@@ -1609,7 +1609,7 @@ end
 
 if matches[1] == "help" and is_mod(msg) then
 text = [[
-*Beyond Bot Commands:*
+*TG_B Bot Commands:*
 
 *!setowner* `[username|id|reply]` 
 _Set Group Owner(Multi Owner)_
@@ -1758,4 +1758,4 @@ patterns ={
 },
 run=run
 }
---end groupmanager.lua #beyond team#
+--end groupmanager.lua #black & white#
