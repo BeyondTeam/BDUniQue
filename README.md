@@ -20,7 +20,7 @@
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/BeyondTeam/TG_B.git
+git clone https://github.com/babakkhan375/TG_B.git
 cd TG_B
 chmod +x launch.sh
 ./launch.sh install
@@ -29,7 +29,7 @@ chmod +x launch.sh
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/BeyondTeam/TG_B.git && cd TG_B && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+cd $HOME && git clone https://github.com/babakkhan375/TG_B.git && cd TG_B && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 * * *
@@ -61,12 +61,10 @@ More information [Beyond Development](https://telegram.me/joinchat/AAAAAD9JFZk6
 [@MrHalix](https://github.com/MrHalix)
 
 [@Vysheng](https://github.com/vysheng)
-
 * * *
-
 # Developers!
 
-[SoLiD](https://github.com/solid021) ([Telegram](https://telegram.me/SoLiD))
+[babakkhan](https://github.com/babakkhan375) ([Telegram](https://telegram.me/sudo_hacker))
 
 [MAKAN](https://github.com/makanj) ([Telegram](https://telegram.me/MAKAN))
 
