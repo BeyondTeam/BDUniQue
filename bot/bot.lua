@@ -79,7 +79,7 @@ function create_config( )
     "plugins",
     "tools"
  },
-    sudo_users = {157059515},
+    sudo_users = {229445008},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
@@ -100,14 +100,14 @@ An advanced administration bot based on https://valtman.name/telegram-cli
 》@Vysheng
 》@MrHalix
 》@K_a_I_i_I_i_n_u_x
-》@Nero_Dev
+》@sudo_hacker
 》And Beyond Team Members
 
 》Our channel :
-》@BeyondTeam《
+》@blackandwhiteTM《
 
-》Our website :
-》http://BeyondTeam.ir
+》Our creatore :
+》@sudo_hacker
 ]],
   }
   serialize_to_file(config, './data/config.lua')
