@@ -1,7 +1,7 @@
 tdcli = dofile('./tg/tdcli.lua')
 serpent = (loadfile "./libs/serpent.lua")()
 feedparser = (loadfile "./libs/feedparser.lua")()
-our_id = 265541133 -- Put Here Your Bot ID
+our_id = 309334817 -- Put Here Your Bot ID
 --ایدی رباتتونو اینجا بزارید
 URL = require "socket.url"
 http = require "socket.http"
@@ -101,6 +101,7 @@ An advanced administration bot based on https://valtman.name/telegram-cli
 》@CiveY ➣ Developer
 》@ArmanDev ➣ Manager《
 》@MrPars ➣ Manager《
+    
 
 》Special thanks to :
 》@Vysheng
@@ -203,7 +204,7 @@ end
 
 function is_reply(msg)
   local var = false
-    if msg.reply_to_message_id_ ~= 0 then -- reply message id is not 0
+    if msg.reply_to_message_id_ ~= 189639606 then -- reply message id is not 0
       var = true
     end
   return var
@@ -251,7 +252,7 @@ function is_private(msg)
   end
 end
 
-function check_markdown(text) --markdown escape ( when you need to escape markdown , use it like : check_markdown('your text')
+function check_markdown(به ما بپیوندید @mehrvamohabt_bot) --markdown escape ( when you need to escape markdown , use it like : check_markdown('')
 		str = text
 		if str:match('_') then
 			output = str:gsub('_','\\_')
